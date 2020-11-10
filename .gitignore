@@ -1,0 +1,14 @@
+# Vim swap files
+*~
+*.swp
+*.swo
+
+# Input/Output files
+input.txt
+output.txt
+
+# Generated bin
+a.out
+
+# Test generation file
+test.cpp
